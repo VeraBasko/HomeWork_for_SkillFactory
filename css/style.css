@@ -346,6 +346,7 @@ about-us-img div{
 	text-transform: uppercase;
 	text-align: center;
 	width: 100%;
+	margin-bottom: 2vh;
 }
 .big-input{
 	width: 100%;
@@ -452,9 +453,6 @@ footer {
 		flex-direction: column;
 		display: flex;
 		padding:0 10vw;
-	}
-	.message button{
-		margin-bottom: 2vh;
 	}
 	.contact-info{
 		flex: 1 1 100%;
